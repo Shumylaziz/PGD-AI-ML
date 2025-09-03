@@ -53,6 +53,4 @@ Post Graduate Diploma in Artificial Intelligence and Machine Learning
 7. Building a Question Answer prediction model using BERT (Self-paced)
 8. Doubt Clearing Session + End Course Test
 ## 9. Industry Grade Project
-Building a Question Answer prediction model using BERT (Self-paced)
-Doubt Clearing Session + End Course Test
-10. Industry Grade Project
+
