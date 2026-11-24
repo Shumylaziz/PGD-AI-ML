@@ -1,27 +1,21 @@
-01 Lists/Tuples/Sets — mutation, slicing, unpacking, namedtuple, set operations
-02 Dictionaries — get, update, pop, iterating keys/values/items
-03 Comprehensions — list/dict/set comprehensions, generator expressions, nested
-04 Functions — defaults, *args/**kwargs, keyword-only args, nonlocal scope
-05 Lambda & Recursion — lambda with sorted/filter/map, recursive factorial, memoized Fibonacci
-06 Modules & Packages — stdlib imports, package layout explained, plus a live demo building and importing a module on the fly (no stray files left behind)
-07 File Handling — write/append/read modes, line iteration, all via a temp dir that cleans itself up
-08 Exception Handling — multiple except, else/finally, a custom InsufficientFundsError
-09 OOP — inheritance, super(), encapsulation convention, dunder __str__, polymorphism
-10 Iterators & Generators — a hand-written iterator class vs. an equivalent yield-based generator
-11 CSV & JSON — csv.DictWriter/DictReader, json.dump/load/dumps/loads
-12 Debugging & Testing — assert, logging, a minimal hand-rolled test runner, a note on breakpoint()
-13 Mini-Projects — a JSON-persisted To-Do list (OOP + file + JSON) and a word-frequency counter (Counter + comprehensions)
+# 01 Lists/Tuples/Sets — mutation, slicing, unpacking, namedtuple, set operations
+# 02 Dictionaries — get, update, pop, iterating keys/values/items
+# 03 Comprehensions — list/dict/set comprehensions, generator expressions, nested
+# 04 Functions — defaults, *args/**kwargs, keyword-only args, nonlocal scope
+# 05 Lambda & Recursion — lambda with sorted/filter/map, recursive factorial, memoized Fibonacci
+# 06 Modules & Packages — stdlib imports, package layout explained, plus a live demo building and importing a module on the fly (no stray files left behind)
+# 07 File Handling — write/append/read modes, line iteration, all via a temp dir that cleans itself up
+# 08 Exception Handling — multiple except, else/finally, a custom InsufficientFundsError
+# 09 OOP — inheritance, super(), encapsulation convention, dunder __str__, polymorphism
+# 10 Iterators & Generators — a hand-written iterator class vs. an equivalent yield-based generator
+# 11 CSV & JSON — csv.DictWriter/DictReader, json.dump/load/dumps/loads
+# 12 Debugging & Testing — assert, logging, a minimal hand-rolled test runner, a note on breakpoint()
+# 13 Mini-Projects — a JSON-persisted To-Do list (OOP + file + JSON) and a word-frequency counter (Counter + comprehensions)
 
 
 """
 Python Basic II - Data Structures, Functions & Beyond
 =============================================================
-Covers the "Basic-II" curriculum, each topic with runnable examples:
-01 Lists/Tuples/Sets, 02 Dictionaries, 03 Comprehensions, 04 Functions,
-05 Lambda & Recursion, 06 Modules & Packages, 07 File Handling,
-08 Exception Handling, 09 OOP, 10 Iterators & Generators,
-11 CSV & JSON, 12 Debugging & Testing, 13 Mini-Projects.
-
 Run this file directly to see every section's output:
     python Python-Basics-2.py
 """
